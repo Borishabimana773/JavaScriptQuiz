@@ -13,5 +13,6 @@ Course work and office hours support from instructor and TAs. Participating in g
 studies to learn from others as well as utilizing links and materials shared.
 
 ##Live Site
-
+(https://borishabimana773.github.io/JavaScriptQuiz/)
 ##Screenshot
+!["C:\Users\habim\Desktop\JavaScriptQuiz\assets\JavaScriptQuiz.JPEG.jpeg"]("C:\Users\habim\Desktop\JavaScriptQuiz\assets\JavaScriptQuiz.JPEG.jpeg")
