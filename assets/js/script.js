@@ -2,7 +2,7 @@ var timer = 100;
 function timerFunction() {
     setInterval(function(){
         timer--;
-        console.log();
+        console.log(timerFunction());
     },1000)
 }
 
@@ -10,7 +10,7 @@ function timerFunction() {
 var questionAnswers = [
     {
         question:"what is the first programming language?",
-        answers:['Cobol',"C","C++","Java","C#"],
+        answers:["Cobol","C","C++","Java","C#"],
         correctAnswer: "Cobol"
     },
     {
